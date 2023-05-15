@@ -137,6 +137,7 @@
   <ItemGroup>
     <ClCompile Include="SPOJ-ANARC09A.cpp" />
     <ClCompile Include="SPOJ-ACODE.cpp" />
+    <ClCompile Include="SPOJ-COINS.cpp" />
     <ClCompile Include="SPOJ-EDIST.cpp" />
     <ClCompile Include="SPOJ-TRT.cpp" />
     <ClCompile Include="SPOJ-BYTESM2.cpp" />

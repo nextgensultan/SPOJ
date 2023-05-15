@@ -30,5 +30,8 @@
     <ClCompile Include="SPOJ-EDIST.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SPOJ-COINS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

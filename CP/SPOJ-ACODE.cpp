@@ -16,6 +16,20 @@
 //		dp[index] += func(str, dp, index - 2);
 //	return dp[index];
 //}
+//int func(string& str, vector <ll >& dp, ll index)
+//{
+//	dp[0] = 1;
+//	int temp = 0;
+//	for (ll i = 0; i < str.size(); i++)
+//	{
+//		if (str[i] <= '9' && str[i] >= '0')
+//			dp[i + 1] = dp[i];
+//		temp = stoi(str.substr(i, 2));
+//		if (temp >= 10 && temp <= 26)
+//			dp[i + 1] += dp[i - 2];
+//	}
+//	return dp[index];
+//}
 //int main()
 //{
 //	string input;
